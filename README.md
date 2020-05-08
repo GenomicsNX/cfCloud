@@ -15,7 +15,29 @@ Cell-free DNA (cfDNA) is double stranded, non-randomly fragmented short (<200bp)
 - Amazon Cloud
 
 ### Local Installation
+
+Inline `code` has `back-ticks around` it.
+
+```bash
+cat test
+```
+
 ### Conda Environment
+
+Download an installer for Python v3. 
+
+distribution  | instructions
+---- | ----
+[Anaconda](https://www.anaconda.com/products/individual#download-section) | Current version "Python 3.7 version"
+[Miniconda](https://repo.anaconda.com/miniconda/) | Download the `Miniconda3-latest-*` installer based on your operating system
+
+Run the installer file.  Depends on. your OS. It may be an executable installer or run from the command-line: `bash INSTALLER.sh` . Please see the instruction provided with the installer.
+
+
+
+
+
+
 ### Amazon Cloud
 
 
