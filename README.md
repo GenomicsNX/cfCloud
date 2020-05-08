@@ -10,17 +10,23 @@ Cell-free DNA (cfDNA) is double stranded, non-randomly fragmented short (<200bp)
 
 
 ## Installation:
-- Local Installation
-- Conda Environment
-- Amazon Cloud
-
+<details>
+<summary>
+Local Installation
+</summary>
 ### Local Installation
-
 Inline `code` has `back-ticks around` it.
 
 ```bash
 cat test
 ```
+
+
+</details>
+<details>
+<summary>
+Conda Environment
+</summary>
 
 ### Conda Environment
 
@@ -36,10 +42,15 @@ Run the installer file.  Depends on. your OS. It may be an executable installer 
 
 
 
-
+</details>
+<details>
+<summary>
+Amazon Cloud
+</summary>
 
 ### Amazon Cloud
 
+</details>
 
 
 ## Usage
