@@ -17,7 +17,7 @@ Local Installation
 
 ### Local Installation
 
-Reqiured Applications
+Tool Prerequisites
 
 - [python=3.7](https://www.python.org/downloads/) 
 - [samtools and bcftools](https://samtools.github.io/bcftools/howtos/install.html) 
@@ -63,7 +63,7 @@ distribution  | instructions
 
 Run the installer file.  Depends on. your OS. It may be an executable installer or run from the command-line: `bash INSTALLER.sh` . Please see the instruction provided with the installer.
 
-Reqiured Applications
+Tool Prerequisites
 ```shell
 conda install -c anaconda pandas
 conda install -c bioconda snakemake
