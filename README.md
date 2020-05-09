@@ -16,6 +16,15 @@ Local Installation
 </summary>
 
 ### Local Installation
+
+Reqiured Applications
+python=3.7
+bcftools
+samtools
+pyvcf
+pandas
+
+
 Inline `code` has `back-ticks around` it.
 
 ```bash
@@ -31,7 +40,7 @@ Conda Environment
 
 ### Conda Environment
 
-Download an installer for Python v3. 
+Download an installer for Python v3. (cfCloud requires python=3.7)
 
 distribution  | instructions
 ---- | ----
@@ -40,6 +49,14 @@ distribution  | instructions
 
 Run the installer file.  Depends on. your OS. It may be an executable installer or run from the command-line: `bash INSTALLER.sh` . Please see the instruction provided with the installer.
 
+Reqiured Applications
+```shell
+conda install -c anaconda pandas
+conda install -c bioconda snakemake
+conda install -c bioconda bcftools
+conda install -c bioconda samtools
+conda install -c bioconda pyvcf
+```
 
 
 
