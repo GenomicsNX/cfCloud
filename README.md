@@ -15,7 +15,7 @@ Local Installation
 
 ### Local Installation
 
-Tool Prerequisites
+#### 1. Tool Prerequisites
 
 - [python=3.7](https://www.python.org/downloads/) 
 - [samtools and bcftools](https://samtools.github.io/bcftools/howtos/install.html) 
@@ -40,6 +40,15 @@ pip3 install pandas
 pip3 install snakemake
 ```
 <br />
+
+#### 2. Clone cfCloud
+```
+git clode https://github.com/NHLBI-BCB/cfCloud.git
+cd cdCloud
+```
+<br />
+
+#### 3. Install resources
 
 - Bowtie2 Reference Genome <br />
 Can be downloaded from [Illumina iGenomes](https://support.illumina.com/sequencing/sequencing_software/igenome.html)
