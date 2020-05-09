@@ -37,9 +37,15 @@ pip3 install PyVCF
 ```
 pip3 install pandas
 ```
+- [snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
+```
+pip3 install snakemake
+```
 
+<br />
 <hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
 <br /><br />
+
 </details>
 <details>
 <summary>
@@ -67,8 +73,10 @@ conda install -c bioconda pyvcf
 ```
 
 
+<br />
 <hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
 <br /><br />
+
 </details>
 <details>
 <summary>
@@ -76,6 +84,12 @@ Amazon Cloud
 </summary>
 
 ### Amazon Cloud
+
+
+
+<br />
+<hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
+<br /><br />
 
 </details>
 
