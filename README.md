@@ -42,9 +42,9 @@ pip3 install pandas
 pip3 install snakemake
 ```
 
-<br />
 <hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
 <br /><br />
+</div>
 
 </details>
 <details>
