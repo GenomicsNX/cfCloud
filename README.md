@@ -95,7 +95,10 @@ Amazon Cloud
 
 
 
-<<hr size=5 style="display: block; height: 3px;
+
+
+
+<hr size=5 style="display: block; height: 3px;
     border: 0; border-top: 1px solid #ccc;
     margin: 1em 0; padding: 0;"  />
 <br /><br />
