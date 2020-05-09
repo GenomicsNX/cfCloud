@@ -19,8 +19,8 @@ Local Installation
 
 Reqiured Applications
 
-- python=3.7 [https://www.python.org/downloads/](https://www.python.org/downloads/) 
-- samtools and bcftools 
+- [python=3.7](https://www.python.org/downloads/) 
+- [samtools and bcftools](https://samtools.github.io/bcftools/howtos/install.html) 
 ```
     git clone --branch=develop git://github.com/samtools/htslib.git
     git clone --branch=develop git://github.com/samtools/bcftools.git
@@ -38,8 +38,8 @@ pip3 install PyVCF
 pip3 install pandas
 ```
 
-<hr/>
-
+<hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
+<br /><br />
 </details>
 <details>
 <summary>
@@ -67,7 +67,8 @@ conda install -c bioconda pyvcf
 ```
 
 
-
+<hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
+<br /><br />
 </details>
 <details>
 <summary>
