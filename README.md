@@ -9,6 +9,10 @@ Cell-free DNA (cfDNA) is double stranded, non-randomly fragmented short (<200bp)
 Local Installation
 </summary>
 
+<hr size=5 style="display: block; height: 3px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0;"  />
+
 ### Local Installation
 
 Tool Prerequisites
@@ -36,15 +40,20 @@ pip3 install pandas
 pip3 install snakemake
 ```
 
-<hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
+<hr size=5 style="display: block; height: 3px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0;"  />
 <br /><br />
-</div>
 
 </details>
 <details>
 <summary>
 Conda Environment
 </summary>
+
+<hr size=5 style="display: block; height: 3px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0;"  />
 
 ### Conda Environment
 
@@ -67,8 +76,9 @@ conda install -c bioconda pyvcf
 ```
 
 
-<br />
-<hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
+<hr size=5 style="display: block; height: 3px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0;"  />
 <br /><br />
 
 </details>
@@ -77,12 +87,16 @@ conda install -c bioconda pyvcf
 Amazon Cloud
 </summary>
 
+<hr size=5 style="display: block; height: 3px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0;"  />
 ### Amazon Cloud
 
 
 
-<br />
-<hr size=5 style="height:3px; border:none; color:#222; background-color:#333;"  />
+<<hr size=5 style="display: block; height: 3px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0;"  />
 <br /><br />
 
 </details>
