@@ -18,19 +18,27 @@ Local Installation
 ### Local Installation
 
 Reqiured Applications
-python=3.7
-bcftools
-samtools
-pyvcf
-pandas
 
-
-Inline `code` has `back-ticks around` it.
-
-```bash
-cat test
+- python=3.7 [https://www.python.org/downloads/](https://www.python.org/downloads/) 
+- samtools and bcftools 
+```
+    git clone --branch=develop git://github.com/samtools/htslib.git
+    git clone --branch=develop git://github.com/samtools/bcftools.git
+    git clone --branch=develop git://github.com/samtools/samtools.git
+    cd bcftools; make
+    cd ../samtools; make 
 ```
 
+- [PyVCF](https://pypi.org/project/PyVCF/)
+```
+pip3 install PyVCF
+```
+- [pandas](https://pandas.pydata.org/)
+```
+pip3 install pandas
+```
+
+<hr/>
 
 </details>
 <details>
