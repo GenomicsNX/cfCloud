@@ -43,8 +43,8 @@ pip3 install snakemake
 
 #### 2. Clone cfCloud
 ```
-git clode https://github.com/NHLBI-BCB/cfCloud.git
-cd cdCloud
+git clone https://github.com/NHLBI-BCB/cfCloud.git
+cd cfCloud
 ```
 <br />
 
