@@ -39,6 +39,20 @@ pip3 install pandas
 ```
 pip3 install snakemake
 ```
+- Bowtie2 Reference Genome
+Can be downloaded from: [Illumina iGenomes](https://support.illumina.com/sequencing/sequencing_software/igenome.html)
+```
+# e.g. For hg19:
+cd resources
+wget http://igenomes.illumina.com.s3-website-us-east-1.amazonaws.com/Homo_sapiens/UCSC/hg19/Homo_sapiens_UCSC_hg19.tar.gz
+tar -xzf Homo_sapiens_UCSC_hg19.tar.gz
+```
+- SNPs list [Infinium Omni2.5](https://www.illumina.com/products/by-type/microarray-kits.html)
+```
+cd reources
+unzip InfiniumOmni25.hg19.snps.cleaned.zip
+```
+
 
 <hr size=5 style="display: block; height: 3px;
     border: 0; border-top: 1px solid #ccc;
