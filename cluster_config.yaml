@@ -1,0 +1,10 @@
+
+
+__default__:
+  time: "12:00:00"
+  mem: "4g"
+  cpus: "1"
+  jobname: "{rule}"
+  out: "logs/{rule}.%A.out"
+
+

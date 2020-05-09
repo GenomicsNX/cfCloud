@@ -1,0 +1,34 @@
+
+
+fastqPath: "/home/cfdna/cfdna-pipeline/fastq"
+GenoVCF: "/home/cfdna/cfdna-pipeline/genotypes/geno.sub.vcf"
+binPath: "/home/cfdna/cfdna-pipeline/bin"
+bowtie_index: "/home/cfdna/cfdna-pipeline/resources/bowtie2/hg19"
+human_fasta: "/home/cfdna/cfdna-pipeline/resources/bowtie2/hg19.fa"
+ref_snp:  "/home/cfdna/cfdna-pipeline/resources/InfiniumOmni25.hg19.snps.cleaned.tsv"
+
+
+samples:
+  sample01:
+    rec_id : "2C"
+    donor_id : "3C" 
+  sample02:
+    rec_id : "2C"
+    donor_id : "3C" 
+  sample03:
+    rec_id : "2C"
+    donor_id : "3C"
+  sample04:
+    rec_id : "2C"
+    donor_id : "3C"
+  sample05:
+    rec_id : "2C"
+    donor_id : "3C"
+  sample06:
+    rec_id : "2C"
+    donor_id : "3C"  
+
+
+bq_filter: 26
+mq_filter: 35
+filter_snps: 1
