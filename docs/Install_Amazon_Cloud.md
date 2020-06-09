@@ -25,12 +25,12 @@
 #### 3. Connect (login) to AMI and activate cfCloud environment
 
 ```
-Example SSH:
+# Example SSH:
 ssh -i "cf_Cloud.pem" ubuntu@30.95.174.61
 ```
 ```
-conda activate cfcloud
 conda info --envs
+conda activate cfcloud
 ```
 
 #### 4. Download resources
