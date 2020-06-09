@@ -34,6 +34,7 @@ conda install -c bioconda bcftools -y
 conda install -c bioconda samtools -y
 conda install -c bioconda pyvcf -y
 conda list
+sudo apt install unzip
 ```
 
 #### 4. Clone cfCloud
@@ -60,7 +61,7 @@ tar -xzf Homo_sapiens_UCSC_hg19.tar.gz
 Can be downloaded from [Illumina Genotyping Kits](https://www.illumina.com/products/by-type/microarray-kits.html)
 ```
 # e.g. Infinium Omni2.5:
-cd reources
+cd resurces
 unzip InfiniumOmni25.hg19.snps.cleaned.zip
 ```
 
