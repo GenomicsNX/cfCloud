@@ -9,12 +9,14 @@ distribution  | instructions
 [Anaconda](https://www.anaconda.com/products/individual#download-section) | Current version "Python 3.7 version"
 [Miniconda](https://repo.anaconda.com/miniconda/) | Download the `Miniconda3-latest-*` installer based on your operating system
 
+Run the installer file.  Depends on. your OS. It may be an executable installer or run from the command-line: `bash INSTALLER.sh` . Please see the instruction provided with the installer.
 ```
 # Example:
 wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+bash Anaconda3-2020.02-Linux-x86_64.sh
 ```
 
-Run the installer file.  Depends on. your OS. It may be an executable installer or run from the command-line: `bash INSTALLER.sh` . Please see the instruction provided with the installer.
+
 
 #### 2. Create a new environment 
 ```
