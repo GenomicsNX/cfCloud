@@ -5,7 +5,7 @@ Cell-free DNA (cfDNA) is double stranded, non-randomly fragmented short (<200bp)
 ## cfCloud Workflow 
 
 <p align="center">
-  <img src="figure/cfCloud.png" width="100%" height="100%" title="cfCloud workflow">
+  <img src="figure/cfCloud.png" width="831" height="720" title="cfCloud workflow">
 </p>
 
 <br /><br />
