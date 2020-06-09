@@ -8,12 +8,12 @@
 
 #### 1. Tutorial: Getting started with Amazon EC2 Linux instances
 
-Tutorail: <b>[AWS EC2: Create EC2 Instance (Linux)](https://medium.com/@GalarnykMichael/aws-ec2-part-1-creating-ec2-instance-9d7f8368f78a)<b><br /><br />
-<b>Step-by-step:<b><br />
-[Step 1: Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)<br />
-[Step 2: Launch an instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html)<br />
-[Step 3: Connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)<br />
-[Step 4: Clean up your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-clean-up-your-instance)<br />
+Tutorail: <b>[AWS EC2: Create EC2 Instance (Linux)](https://medium.com/@GalarnykMichael/aws-ec2-part-1-creating-ec2-instance-9d7f8368f78a)</b><br /><br />
+<b>Step-by-step:</b><br />
+&nbsp;&nbsp;&nbsp;&nbsp; [Step 1: Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)<br />
+&nbsp;&nbsp;&nbsp;&nbsp; [Step 2: Launch an instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html)<br />
+&nbsp;&nbsp;&nbsp;&nbsp; [Step 3: Connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)<br />
+&nbsp;&nbsp;&nbsp;&nbsp; [Step 4: Clean up your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-clean-up-your-instance)<br />
 
 #### 2. Choose the cfCloud Amazon Machine Image (AMI)
 
