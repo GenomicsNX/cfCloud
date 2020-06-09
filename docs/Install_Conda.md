@@ -20,7 +20,7 @@ bash Anaconda3-2020.02-Linux-x86_64.sh
 
 #### 2. Create a new environment 
 ```
-conda create --name cfcloud python=3.7
+conda create --name cfcloud python=3.6
 conda activate cfcloud
 conda info --envs
 ```
