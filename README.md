@@ -169,10 +169,10 @@ Amazon Cloud
 
 
 #### 1. Tutorial: Getting started with Amazon EC2 Linux instances
-[Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-getstarted-prereqs)<br />
-[Step 1: Launch an instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html)<br />
-[Step 2: Connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)<br />
-[Step 3: Clean up your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-clean-up-your-instance)<br />
+[Step 1: Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)<br />
+[Step 2: Launch an instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html)<br />
+[Step 3: Connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)<br />
+[Step 4: Clean up your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-clean-up-your-instance)<br />
 
 #### 2. 
 
