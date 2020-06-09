@@ -28,11 +28,11 @@ conda info --envs
 
 #### 3. Tool Prerequisites
 ```shell
-conda install -c anaconda pandas
-conda install -c bioconda snakemake
-conda install -c bioconda bcftools
-conda install -c bioconda samtools
-conda install -c bioconda pyvcf
+conda install -c anaconda pandas -y
+conda install -c bioconda snakemake -y
+conda install -c bioconda bcftools -y
+conda install -c bioconda samtools -y
+conda install -c bioconda pyvcf -y
 conda list
 ```
 
