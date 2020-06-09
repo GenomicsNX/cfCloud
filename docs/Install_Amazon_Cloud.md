@@ -7,6 +7,9 @@
 
 
 #### 1. Tutorial: Getting started with Amazon EC2 Linux instances
+
+Tutorail: <b>[AWS EC2: Create EC2 Instance (Linux)](https://medium.com/@GalarnykMichael/aws-ec2-part-1-creating-ec2-instance-9d7f8368f78a)<b><br /><br />
+<b>Step-by-step:<b><br />
 [Step 1: Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)<br />
 [Step 2: Launch an instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html)<br />
 [Step 3: Connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)<br />
@@ -23,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Choose an AMI that meets your needs, and then choose Select.<br />
 
 #### 3. Connect (login) to AMI and activate cfCloud environment
+
+Tutorial: [AWS EC2: Connect to Linux Instance using SSH](https://medium.com/@GalarnykMichael/aws-ec2-part-2-ssh-into-ec2-instance-c7879d47b6b2)
 
 ```
 # Example SSH:
