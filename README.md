@@ -167,6 +167,11 @@ Amazon Cloud
 
 ### Amazon Cloud
 
+<p align="center">
+  <img src="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/overview_getting_started.png" width="409" height="338" title="AWS">
+</p>
+ 
+
 
 #### 1. Tutorial: Getting started with Amazon EC2 Linux instances
 [Step 1: Prerequisites](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)<br />
@@ -174,9 +179,15 @@ Amazon Cloud
 [Step 3: Connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)<br />
 [Step 4: Clean up your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-clean-up-your-instance)<br />
 
-#### 2. 
+#### 2. Choose the cfCloud Amazon Machine Image (AMI)
 
+2.1. On the <b>Choose an Amazon Machine Image (AMI)</b> page, search for <b>cfCloud</b> AMI.<br />
 
+2.2. Check the Root device type listed for each AMI. Notice which AMIs are the type that you need, either ebs (backed by Amazon EBS) or instance-store (backed by instance store). <br />
+
+2.3. Check the Virtualization type listed for each AMI. Notice which AMIs are the type that you need, either hvm or paravirtual. For example, some instance types require HVM. <br />
+
+2.4. Choose an AMI that meets your needs, and then choose Select.<br />
 
 
 
