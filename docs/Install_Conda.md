@@ -10,6 +10,7 @@ distribution  | instructions
 [Miniconda](https://repo.anaconda.com/miniconda/) | Download the `Miniconda3-latest-*` installer based on your operating system
 
 ```
+# Example:
 wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
 ```
 
