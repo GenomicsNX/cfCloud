@@ -22,5 +22,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.4. Choose an AMI that meets your needs, and then choose Select.<br />
 
+#### 3. Connect (login) to AMI and activate cfCloud environment
+
+```
+Example SSH:
+ssh -i "cf_Cloud.pem" ubuntu@30.95.174.61
+```
+```
+conda activate cfcloud
+conda info --envs
+```
+
+#### 4. Download resources
+
+- Bowtie2 Reference Genome <br />
+Can be downloaded from [Illumina iGenomes](https://support.illumina.com/sequencing/sequencing_software/igenome.html)
+
+```
+# e.g. hg19:
+cd resources
+wget http://igenomes.illumina.com.s3-website-us-east-1.amazonaws.com/Homo_sapiens/UCSC/hg19/Homo_sapiens_UCSC_hg19.tar.gz
+tar -xzf Homo_sapiens_UCSC_hg19.tar.gz
+```
+
 
 
