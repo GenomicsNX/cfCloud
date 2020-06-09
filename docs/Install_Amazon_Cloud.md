@@ -16,7 +16,7 @@
 
 #### 2. Choose the cfCloud Amazon Machine Image (AMI)
 
-Tutorail: <b>[AWS EC2: Create EC2 Instance (Linux)](https://medium.com/@GalarnykMichael/aws-ec2-part-1-creating-ec2-instance-9d7f8368f78a)</b><br /><br />
+Tutorail: <b>[AWS EC2: Create EC2 Instance (Linux)](https://medium.com/@GalarnykMichael/aws-ec2-part-1-creating-ec2-instance-9d7f8368f78a)</b><br />
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.1. On the <b>[Choose an Amazon Machine Image (AMI)](https://console.aws.amazon.com/ec2/v2/home?#LaunchInstanceWizard:)</b> page, search for <b>cfCloud</b> AMI.<br />
 
