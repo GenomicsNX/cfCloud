@@ -10,7 +10,7 @@ Cell-free DNA (cfDNA) is double stranded, non-randomly fragmented short (<200bp)
 
 <br /><br />
 
-## Installation and Usage:
+## Installation and Usage
 
 ### [Local](docs/Install_Local.md)
 
