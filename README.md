@@ -12,11 +12,11 @@ Cell-free DNA (cfDNA) is double stranded, non-randomly fragmented short (<200bp)
 
 ## Installation and Usage
 
-### [Local](docs/Install_Local.md)
+### [Local](docs/Local.md)
 
-### [Conda Environment](docs/Install_Conda.md)
+### [Conda Environment](docs/Conda.md)
 
-### [Amazon Cloud](docs/Install_Amazon_Cloud.md)
+### [Amazon Cloud](docs/Amazon_Cloud.md)
 
 <br /><br />
 
