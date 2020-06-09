@@ -40,7 +40,7 @@ Can be downloaded from [Illumina iGenomes](https://support.illumina.com/sequenci
 
 ```
 # e.g. hg19:
-cd resources
+cd ~/cfCloud/resources
 wget http://igenomes.illumina.com.s3-website-us-east-1.amazonaws.com/Homo_sapiens/UCSC/hg19/Homo_sapiens_UCSC_hg19.tar.gz
 tar -xzf Homo_sapiens_UCSC_hg19.tar.gz
 ```
