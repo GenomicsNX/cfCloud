@@ -181,13 +181,13 @@ Amazon Cloud
 
 #### 2. Choose the cfCloud Amazon Machine Image (AMI)
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1. On the <b>Choose an Amazon Machine Image (AMI)</b> page, search for <b>cfCloud</b> AMI.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.1. On the <b>Choose an Amazon Machine Image (AMI)</b> page, search for <b>cfCloud</b> AMI.<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.2. Check the Root device type listed for each AMI. Notice which AMIs are the type that you need, either ebs (backed by Amazon EBS) or instance-store (backed by instance store). <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.2. Check the Root device type listed for each AMI. Notice which AMIs are the type that you need, <br />&nbsp;&nbsp;&nbsp;&nbsp; either ebs (backed by Amazon EBS) or instance-store (backed by instance store). <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.3. Check the Virtualization type listed for each AMI. Notice which AMIs are the type that you need, either hvm or paravirtual. For example, some instance types require HVM. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.3. Check the Virtualization type listed for each AMI. Notice which AMIs are the type that you need,<br /> &nbsp;&nbsp;&nbsp;&nbsp; either hvm or paravirtual.  <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.4. Choose an AMI that meets your needs, and then choose Select.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.4. Choose an AMI that meets your needs, and then choose Select.<br />
 
 
 
